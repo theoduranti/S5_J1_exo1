@@ -1,0 +1,6 @@
+<br/><br/>
+<h1>Voici un index de cinq films trop cool</h1>
+<br/><br/>
+<% @movies.each do |movie| %>
+    <p> <%= movie.title %>, réalisé par <%= movie.director %>, sorti en <%= movie.release_year %> </p>
+<% end %>
