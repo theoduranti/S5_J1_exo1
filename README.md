@@ -1,24 +1,13 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Ce repository contient les fichiers permettant à l'application :   
+https://fierce-stream-11332.herokuapp.com/    
+de fonctionner.
 
-Things you may want to cover:
+Si tu es mon correcteur, tu verras certainement que je me suis arrêté à la question 4.
+Cette application ne contient donc qu'un model Movie qui contient les arguments :name :release_year et :director, 
+elle n'a également qu'une seule view index qui affiche tous les éléments de tous les movies.
 
-* Ruby version
+N'oublies pas de regarder les films !
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Pour le deuxième exercice, rendez-vous sur le repository : https://github.com/theoduranti/S5_J1_exo2
